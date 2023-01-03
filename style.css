@@ -1,0 +1,36 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.peach {
+    background-color: peachpuff;
+    font-weight: bold;
+}
+
+.indigo {
+    background-color: grey;
+}
+
+.table-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.purple {
+    background-color: rgb(226, 212, 226);
+}
+
+.green {
+    background-color: rgb(200, 237, 200);
+}
+.yellow{background-color: rgb(246, 246, 95);}
+.blue{background-color: lightblue }
+
+.cream{background-color: rgb(242, 242, 199);}
